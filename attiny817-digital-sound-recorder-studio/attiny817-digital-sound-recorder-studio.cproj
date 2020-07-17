@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>AVR42777DigitalSoundRecorder</AssemblyName>
-    <Name>AVR42777DigitalSoundRecorder</Name>
-    <RootNamespace>AVR42777DigitalSoundRecorder</RootNamespace>
+    <AssemblyName>attiny817-digital-sound-recorder-studio</AssemblyName>
+    <Name>attiny817-digital-sound-recorder-studio</Name>
+    <RootNamespace>attiny817-digital-sound-recorder-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
