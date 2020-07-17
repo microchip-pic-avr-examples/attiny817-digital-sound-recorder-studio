@@ -34,7 +34,7 @@ The example is explained in more details in the application note [AN2547](http:/
 ## Operation
 
 1. Download the zip file or clone the example to get the source code.
-2. Open `AVR42777DigitalSoundRecorder.atsln` in Atmel Studio.
+2. Open `attiny817-digital-sound-recorder-studio.atsln` in Atmel Studio.
 3. Connect the ATtiny817 Xplained Pro with your computer. 
 4. In your menu bar in Atmel Studio go to `Debug->Start Without Debugging` or press `CTRL + ALT + F5`.
 5. Use the buttons on the OLED display to start recording, erase or start playback.
