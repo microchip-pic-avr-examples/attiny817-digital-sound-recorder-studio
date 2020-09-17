@@ -37,8 +37,39 @@
             }
         },
         "author": "Microchip",
-        "subcategories": [],
-        "peripherals": [],
+        "subcategories": [
+            [
+                "Peripherals",
+                "ADC"
+            ],
+            [
+                "Peripherals",
+                "DAC"
+            ],
+            [
+                "Peripherals",
+                "EVSYS"
+            ],
+            [
+                "Peripherals",
+                "SPI"
+            ],
+            [
+                "Peripherals",
+                "TCA"
+            ],
+            [
+                "Development Kit",
+                "ATtiny817 Xplained Pro"
+            ]
+        ],
+        "peripherals": [
+            "ADC",
+            "DAC",
+            "EVSYS",
+            "SPI",
+            "TCA"
+        ],
         "keywords": [
             "",
             ""
