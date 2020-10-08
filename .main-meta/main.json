@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.attiny817-digital-sound-recorder-studio",
         "version": "1.0.0",
-        "displayName": "attiny817 digital sound recorder studio",
+        "displayName": "Digital Sound Recorder",
         "projectName": "attiny817-digital-sound-recorder-studio",
         "shortDescription": "ATtiny817 Digital Sound Recorder using DAC with evaluation kit",
         "ide": {
